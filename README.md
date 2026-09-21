@@ -16,9 +16,22 @@ streamlit run app.py
 
 ## Project files
 
-- `app.py` – Streamlit app
-- `Stock Predictions Model.keras` – trained model
-- `Stock_Market_Prediction_Model_Creation.ipynb` – notebook used to build the model
+# 📈 Stock Market Predictor
+
+An interactive **Streamlit** web application for stock price analysis and future price forecasting using a deep learning model.
+
+---
+
+## 📁 Project Structure
+
+```text
+├── app.py                                     # Streamlit web application interface
+├── Stock Predictions Model.keras               # Pre-trained deep learning model
+├── Stock_Market_Prediction_Model_Creation.ipynb # Jupyter Notebook for training & building the model
+├── requirements.txt                           # Python dependencies
+├── images/                                    # Screenshots for project documentation
+└── README.md                                  # Project overview and instructions
+
 
 ## Notes
 
