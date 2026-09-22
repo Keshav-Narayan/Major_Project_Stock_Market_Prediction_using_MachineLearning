@@ -6,6 +6,3 @@ matplotlib
 scikit-learn
 tensorflow
 keras
-git add requirements.txt
-git commit -m "Replace 87 frozen packages with core app dependencies"
-git push origin main
