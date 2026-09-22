@@ -2,7 +2,7 @@
 
 An interactive web application built with **Streamlit** for real-time stock price analysis and future price forecasting using a deep learning model.
 
-🚀 **Live Demo:** [Click here to view the Streamlit App](https://your-streamlit-app-url.streamlit.app) *(Replace with your actual Streamlit link)*
+🚀 **Live Demo:** [Click here to view the Streamlit App].(https://majorprojectstockmarketpredictionusingmachinelearning-5yhc5cen.streamlit.app/)
 
 ---
 
@@ -10,7 +10,10 @@ An interactive web application built with **Streamlit** for real-time stock pric
 
 | Stock Price Analysis | Price Forecasting |
 | :---: | :---: |
-| ![Analysis Screenshot](images/screenshot1.png) | ![Prediction Screenshot](images/screenshot2.png) |
+| ![Analysis Screenshot](<img width="1473" height="832" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/f09cea2e-dc64-432d-953a-6885872113a6" />
+)
+| ![Prediction Screenshot](<img width="1214" height="735" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/40a7180e-09a0-44a2-84cf-e19c0af96c91" />
+) |
 
 *(Upload your screenshot images to the `images/` folder to display them above)*
 
